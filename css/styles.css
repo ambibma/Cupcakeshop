@@ -1,0 +1,10 @@
+h1.flashy {
+  color: red;
+  font-style: italic;
+
+} 
+p.best {
+  font: size 36px;
+  color: lightcoral;
+  font-weight: bold;
+}
