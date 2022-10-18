@@ -4,7 +4,14 @@ h1.flashy {
 
 } 
 p.best {
-  font: size 36px;
+  font-size: 36px;
   color: lightcoral;
   font-weight: bold;
+}
+h1.title {
+  font-size: 42;
+  text-align: center;
+}
+body {
+  text-align: center;
 }
